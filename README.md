@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://vistara-cosmic.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/✨_LIVE_DEMO-Visit_Website-37a779?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/✨_LIVE_DEMO-Visit_Website-37a779?style=for-the-badge" alt="https://vistara-cosmic.vercel.app/"/>
   </a>
   <a href="#demo-video">
-    <img src="https://img.shields.io/badge/🎬_WATCH-Demo_Video-FF0000?style=for-the-badge" alt="Demo Video"/>
+    <img src="https://img.shields.io/badge/🎬_WATCH-Demo_Video-FF0000?style=for-the-badge" alt="https://drive.google.com/file/d/1LwYCrY9XuiIHgHD9qHpiGl3LZ5shVJss/view?usp=sharing"/>
   </a>
-  <a href="https://github.com/yourusername/vistara">
+  <a href="https://github.com/harshavardhan-md/vistara">
     <img src="https://img.shields.io/badge/⭐_STAR-Repository-FFC83D?style=for-the-badge" alt="Star Repository"/>
   </a>
 </p>
@@ -204,9 +204,8 @@ Meet the visionaries behind Vistara:
 
 ## 🏆 Recognition
 
-- 🥇 **COSMIC x ADVAYA Hackathon 2025** - First Place
-- 🌟 Featured in **TechCrunch's "Innovations in Cultural Tourism"**
-- 🏅 Selected for **Google for Startups Accelerator: Cultural Heritage**
+- 🥇 **COSMIC x ADVAYA Hackathon 2025** 
+
 
 ## 📚 Get Involved
 
