@@ -25,6 +25,8 @@ By weaving together **AI-powered storytelling**, **geospatial discovery**, and *
 
 <p align="center">
   <img src="[INSERT_HERO_SCREENSHOT_HERE]" alt="Vistara Hero Screenshot" width="100%">
+  <img src="[https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/6.png]" alt="Vistara Hero Screenshot" width="100%">
+  <img src="[INSERT_HERO_SCREENSHOT_HERE]" alt="Vistara Hero Screenshot" width="100%">
 </p>
 
 ## ✨ Experience Vistara
