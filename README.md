@@ -110,6 +110,10 @@ We've developed a unique AI pipeline that transforms ordinary travel photos into
 ### 🧵 Verified Artisan Network
 Unlike conventional marketplaces, our platform integrates verification protocols to ensure authenticity. Each artisan's profile contains rich cultural context about their craft tradition, materials used, and regional significance.
 
+<p align="center">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/8.png" width="80%" alt="StoryWeaver in Action">
+</p>
+
 ### 🕸️ Cultural Web Graph
 Our proprietary mapping system visualizes cultural connections between sites, crafts, and traditions, helping travelers understand the rich tapestry they're exploring.
 
