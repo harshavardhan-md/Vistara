@@ -161,7 +161,113 @@ Our system integrates several key components:
 ## 🌱 Roadmap & Vision
 
 <p align="center">
-  <img src="[INSERT_ROADMAP_GRAPHIC]" width="90%" alt="Vistara Roadmap">
+  <svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background and styling -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5f7fa" />
+      <stop offset="100%" stop-color="#e9edf2" />
+    </linearGradient>
+    <linearGradient id="q3Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#37a779" />
+      <stop offset="100%" stop-color="#2c8560" />
+    </linearGradient>
+    <linearGradient id="q4Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4285F4" />
+      <stop offset="100%" stop-color="#3367d6" />
+    </linearGradient>
+    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF4B4B" />
+      <stop offset="100%" stop-color="#d13b3b" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feFlood flood-color="#ffffff" result="glow" />
+      <feComposite in="glow" in2="blur" operator="in" result="softGlow" />
+      <feComposite in="SourceGraphic" in2="softGlow" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="1000" height="500" fill="url(#bgGradient)" rx="20" ry="20" />
+  
+  <!-- Title -->
+  <text x="500" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#333333">Vistara Vision & Roadmap</text>
+  <text x="500" y="80" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#666666">Expanding Cultural Tourism Through Technology</text>
+
+  <!-- Central path -->
+  <path d="M150,220 Q500,150 850,220" stroke="#aaaaaa" stroke-width="8" stroke-linecap="round" fill="none" />
+  <circle cx="150" cy="220" r="15" fill="#888888" filter="url(#glow)" />
+  <circle cx="850" cy="220" r="15" fill="#888888" filter="url(#glow)" />
+
+  <!-- Timeline icons -->
+  <circle cx="320" cy="196" r="40" fill="url(#q3Gradient)" filter="url(#shadow)" />
+  <text x="320" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">Q3</text>
+  <text x="320" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">2025</text>
+  
+  <circle cx="500" cy="180" r="40" fill="url(#q4Gradient)" filter="url(#shadow)" />
+  <text x="500" y="174" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">Q4</text>
+  <text x="500" y="194" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">2025</text>
+  
+  <circle cx="680" cy="196" r="40" fill="url(#futureGradient)" filter="url(#shadow)" />
+  <text x="680" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">2026+</text>
+  <text x="680" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">BEYOND</text>
+
+  <!-- Timeline content boxes -->
+  <!-- Q3 2025 -->
+  <rect x="200" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#37a779" stroke-width="2" filter="url(#shadow)" />
+  <text x="220" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#37a779">Q3 2025</text>
+  
+  <text x="235" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🗣️ Expansion to 12 regional</text>
+  <text x="250" y="345" font-family="Arial, sans-serif" font-size="14" fill="#333333">Indian languages</text>
+  
+  <text x="235" y="375" font-family="Arial, sans-serif" font-size="14" fill="#333333">🎭 AR experiences for</text>
+  <text x="250" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333333">historical site visualization</text>
+  
+  <text x="235" y="425" font-family="Arial, sans-serif" font-size="14" fill="#333333">🧵 Direct partnership with</text>
+  <text x="250" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">500+ rural artisans</text>
+
+  <!-- Q4 2025 -->
+  <rect x="380" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#4285F4" stroke-width="2" filter="url(#shadow)" />
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4285F4">Q4 2025</text>
+  
+  <text x="415" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🌍 Integration with major</text>
+  <text x="430" y="345" font-family="Arial, sans-serif" font-size="14" fill="#333333">travel booking platforms</text>
+  
+  <text x="415" y="375" font-family="Arial, sans-serif" font-size="14" fill="#333333">🏺 Virtual museum</text>
+  <text x="430" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333333">experiences</text>
+  
+  <text x="415" y="425" font-family="Arial, sans-serif" font-size="14" fill="#333333">🎁 Subscription model for</text>
+  <text x="430" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">curated craft deliveries</text>
+
+  <!-- 2026 and Beyond -->
+  <rect x="560" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#FF4B4B" stroke-width="2" filter="url(#shadow)" />
+  <text x="580" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FF4B4B">2026 and Beyond</text>
+  
+  <text x="595" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🌐 Expansion to Southeast</text>
+  <text x="610" y="345" font-family="Arial, sans-serif" font-size="14" fill="#333333">Asian cultural tourism</text>
+  
+  <text x="595" y="375" font-family="Arial, sans-serif" font-size="14" fill="#333333">🧬 Open cultural data</text>
+  <text x="610" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333333">commons</text>
+  
+  <text x="595" y="425" font-family="Arial, sans-serif" font-size="14" fill="#333333">🎨 NFT-based heritage</text>
+  <text x="610" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">preservation initiative</text>
+
+  <!-- Connection lines -->
+  <line x1="320" y1="236" x2="320" y2="260" stroke="#37a779" stroke-width="3" stroke-dasharray="5,5" />
+  <line x1="500" y1="220" x2="500" y2="260" stroke="#4285F4" stroke-width="3" stroke-dasharray="5,5" />
+  <line x1="680" y1="236" x2="680" y2="260" stroke="#FF4B4B" stroke-width="3" stroke-dasharray="5,5" />
+
+  <!-- Decorative elements -->
+  <path d="M90,440 Q120,430 150,440 T210,440" stroke="#aaaaaa" stroke-width="2" fill="none" />
+  <path d="M790,440 Q820,430 850,440 T910,440" stroke="#aaaaaa" stroke-width="2" fill="none" />
+  
+  <!-- Logo and branding -->
+  <text x="500" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">VISTARA • Discover India's Soul • Team COSMIC</text>
+</svg>
 </p>
 
 ### Q3 2025
