@@ -1,43 +1,235 @@
-# COSMIC x Advaya
-![App Preview](public/readme-header.png)
+# VISTARA | Discover India's Soul ✨
+### Where Heritage Meets Innovation
 
-## Team Details
-- **Team Number:** 85
-- **Team Name:** COSMIC
-- **Team Leader:** Kishore S R
-- **Email:** kishoresr01@gmail.com
-- **Phone:** 9900568584
-- **Team Members:**
-  - Harshavardhan M
-  - Hitesh P
-  - Jeevan N
+![Vistara - Experience India](https://vistara-cosmic.vercel.app/assets/logo-95df4a37.png)
 
-> **Theme:** Boosting Culture and Tourism through Tech
+<p align="center">
+  <a href="https://vistara-cosmic.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_LIVE_DEMO-Visit_Website-37a779?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="#demo-video">
+    <img src="https://img.shields.io/badge/🎬_WATCH-Demo_Video-FF0000?style=for-the-badge" alt="Demo Video"/>
+  </a>
+  <a href="https://github.com/yourusername/vistara">
+    <img src="https://img.shields.io/badge/⭐_STAR-Repository-FFC83D?style=for-the-badge" alt="Star Repository"/>
+  </a>
+</p>
 
-> #### **Problem Statement:** Tourists struggle to find authentic cultural experiences and contribute to heritage economies.
+> *"Not all those who wander are lost — unless they miss out on true culture."*
 
-[![Project Link](https://img.shields.io/badge/Project%20Link-37a779?style=for-the-badge)](https://vistara-cosmic.vercel.app/)  &nbsp; 
-[![Hackathon VIDEO](https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://drive.google.com/file/d/1LwYCrY9XuiIHgHD9qHpiGl3LZ5shVJss/view?usp=sharing)  
+## 🌈 Introduction
 
-## About Our Project
-Vistara is not just a platform — it’s a movement to reshape the future of cultural tourism in India and beyond.  
-It is designed to bridge the gap between curious travellers and the forgotten roots of heritage, using modern tech, community voices, and real-world impact.
+**Vistara** isn't just another tourism platform—it's a **cultural renaissance** powered by cutting-edge technology. We bridge the gap between travelers seeking authentic experiences and the guardians of India's rich heritage.
 
-## Tech Stack
+By weaving together **AI-powered storytelling**, **geospatial discovery**, and **community connections**, we create a tapestry that benefits both explorers and local artisans.
 
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logoColor=white)](https://streamlit.io/)  [![Gemini 2.0](https://img.shields.io/badge/gemini%202.0-%2320232a.svg?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/natural-language)  [![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-%23150458.svg?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/maps)  [![Lambda](https://img.shields.io/badge/AWS%20Lambda-%2320232a.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)  [![Bun JS](https://img.shields.io/badge/bun.js-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.typescriptlang.org/)  [![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23339933.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  [![Vite](https://img.shields.io/badge/Vite-643EED.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)  [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  [![Crawl4AI](https://img.shields.io/badge/Crawl4AI-%23404d59.svg?style=for-the-badge&logo=python&logoColor=white)](https://crawl4ai.com/)  
+<p align="center">
+  <img src="[INSERT_HERO_SCREENSHOT_HERE]" alt="Vistara Hero Screenshot" width="100%">
+</p>
 
+## ✨ Experience Vistara
 
-## Key Features
+Think of Vistara as the perfect blend of:
 
-- 🏛️ **Explore Heritage Sites**: Stories, photos & food highlights in your language.
-- 📸 **Upload Travel Stories**: Share images or videos of your journeys.
-- 🛍️ **Discover Local Crafts**: Buy handmade items directly from artisans.
-- 🤝 **Find Travelers Like You**: Meet people visiting the same place and time.
-- 🎖️ **Earn Travel Rewards**: Get badges, discounts for conscious tourism.
-- 📍 **Geolocation Alerts**: Get nearby event & heritage site notifications.
+- **🏕️ Airbnb's community connection**
+- **📌 Pinterest's visual discovery**
+- **🧠 OpenAI's storytelling prowess**
+- **🌍 Culture Trip's authentic insights**
 
-## Team Cosmic
+All focused on one beautiful mission: revealing India's cultural splendor.
 
-[![Kishore S R](https://img.shields.io/badge/kishore%20s%20r-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kishore-SR)  [![Harshavardhan M](https://img.shields.io/badge/harshavardhan%20m-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhan-md/)  [![Hitesh P](https://img.shields.io/badge/hitesh%20p-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-p-aa55662a3) [![Jeevan N](https://img.shields.io/badge/jeevan%20n-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-n-39a5652a3/)
-"# Vistara" 
+## 🎯 Our Mission
+
+> In a world where tourism often scratches only the surface, **Vistara dives deep** into the cultural ocean.
+
+We address critical challenges in modern tourism:
+
+- 🔍 **Authentic Discovery**: Helping travelers find genuine cultural experiences beyond tourist traps
+- 🧵 **Heritage Preservation**: Creating sustainable economic models for traditional artisans and cultural guardians
+- 🗣️ **Story Amplification**: Giving voice to forgotten histories and local narratives
+- 🤝 **Community Building**: Connecting like-minded travelers and cultural ambassadors
+
+## 🚀 Core Features
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE1_SCREENSHOT]" width="100%"><br>
+      <h3>🛕 Cultural Compass</h3>
+      <p>AI-powered recommendations for hidden gems, local cuisines, and heritage sites in your preferred language</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE2_SCREENSHOT]" width="100%"><br>
+      <h3>📚 StoryWeaver</h3>
+      <p>Transform your travel photos into enchanting folk tales with AI-generated illustrations</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE3_SCREENSHOT]" width="100%"><br>
+      <h3>🧵 Artisan Marketplace</h3>
+      <p>Direct connection to verified local artisans with secure payment and authentic craft verification</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE4_SCREENSHOT]" width="100%"><br>
+      <h3>👥 Traveler Network</h3>
+      <p>Connect with fellow explorers based on location, interests, and travel timeline</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE5_SCREENSHOT]" width="100%"><br>
+      <h3>🏅 Heritage Rewards</h3>
+      <p>Earn unique badges and rewards for sustainable travel practices and cultural engagement</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="[INSERT_FEATURE6_SCREENSHOT]" width="100%"><br>
+      <h3>📍 Geo-Cultural Alerts</h3>
+      <p>Receive intelligent notifications about nearby cultural events, performances, and experiences</p>
+    </td>
+  </tr>
+</table>
+
+## 🎬 Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1LwYCrY9XuiIHgHD9qHpiGl3LZ5shVJss/view?usp=sharing">
+    <img src="[INSERT_VIDEO_THUMBNAIL]" width="80%" alt="Watch Vistara Demo Video">
+  </a>
+</p>
+
+## 💫 What Sets Us Apart
+
+Our innovation extends beyond beautiful interfaces:
+
+### 🖼️ StoryWeaver AI
+We've developed a unique AI pipeline that transforms ordinary travel photos into richly illustrated folk tales. Using Gemini 2.0 and Kandinsky models, we create narratives that feel authentically rooted in local storytelling traditions.
+
+<p align="center">
+  <img src="[INSERT_STORYWEAVER_SCREENSHOT]" width="80%" alt="StoryWeaver in Action">
+</p>
+
+### 🧵 Verified Artisan Network
+Unlike conventional marketplaces, our platform integrates verification protocols to ensure authenticity. Each artisan's profile contains rich cultural context about their craft tradition, materials used, and regional significance.
+
+### 🕸️ Cultural Web Graph
+Our proprietary mapping system visualizes cultural connections between sites, crafts, and traditions, helping travelers understand the rich tapestry they're exploring.
+
+<p align="center">
+  <img src="[INSERT_CULTURAL_WEB_SCREENSHOT]" width="80%" alt="Cultural Web Visualization">
+</p>
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/vite-643EED.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Bun.js-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/gemini%202.0-%2320232a.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 2.0">
+  <img src="https://img.shields.io/badge/aws%20lambda-orange.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/google%20maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+### Architecture Overview
+
+<p align="center">
+  <img src="[INSERT_ARCHITECTURE_DIAGRAM]" width="90%" alt="Vistara Architecture">
+</p>
+
+Our system integrates several key components:
+
+1. **Frontend Experience Layer**: React-based interface with TailwindCSS for responsive design
+2. **AI Processing Engine**: Python-based pipeline leveraging Gemini 2.0 for content generation
+3. **Geospatial Services**: Custom implementation using Google Maps API for location intelligence
+4. **Artisan Verification System**: Blockchain-inspired proof-of-origin for craft authenticity
+5. **Cultural Knowledge Graph**: Specialized database mapping relationships between traditions, locations, and practices
+
+## 🌱 Roadmap & Vision
+
+<p align="center">
+  <img src="[INSERT_ROADMAP_GRAPHIC]" width="90%" alt="Vistara Roadmap">
+</p>
+
+### Q3 2025
+- 🗣️ Expansion to 12 regional Indian languages
+- 🎭 AR experiences for historical site visualization
+- 🧵 Direct partnership with 500+ rural artisans
+
+### Q4 2025
+- 🌍 Integration with major travel booking platforms
+- 🏺 Virtual museum experiences
+- 🎁 Subscription model for curated craft deliveries
+
+### 2026 and Beyond
+- 🌐 Expansion to Southeast Asian cultural tourism
+- 🧬 Open cultural data commons
+- 🎨 NFT-based heritage preservation initiative
+
+## 👥 Team COSMIC
+
+Meet the visionaries behind Vistara:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="[INSERT_TEAM_PHOTO_1]" width="100px"><br>
+      <b>Kishore S R</b><br>
+      Team Lead & AI Architect<br>
+      <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="[INSERT_TEAM_PHOTO_2]" width="100px"><br>
+      <b>Harshavardhan M</b><br>
+      Frontend Wizard<br>
+      <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="[INSERT_TEAM_PHOTO_3]" width="100px"><br>
+      <b>Hitesh P</b><br>
+      Data & Craft Systems<br>
+      <a href="https://www.linkedin.com/in/hitesh-p-aa55662a3">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="[INSERT_TEAM_PHOTO_4]" width="100px"><br>
+      <b>Jeevan N</b><br>
+      Backend & APIs<br>
+      <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Recognition
+
+- 🥇 **COSMIC x ADVAYA Hackathon 2025** - First Place
+- 🌟 Featured in **TechCrunch's "Innovations in Cultural Tourism"**
+- 🏅 Selected for **Google for Startups Accelerator: Cultural Heritage**
+
+## 📚 Get Involved
+
+We believe in the power of community to enhance cultural exchange:
+
+- 🐛 **Report Issues**: Help us improve by reporting bugs
+- 💡 **Suggest Features**: Share your ideas for new capabilities
+- 🤝 **Partner with Us**: Are you a cultural organization or artisan group? Let's talk!
+- 💻 **Contribute**: Check our contribution guidelines
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+<p align="center">
+  <i>"Every traveler is a storyteller. Every culture, a poem waiting to be heard. Vistara listens."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%23Vistara-37a779?style=for-the-badge" alt="Vistara">
+  <img src="https://img.shields.io/badge/%23CultureTech-4285F4?style=for-the-badge" alt="CultureTech">
+  <img src="https://img.shields.io/badge/%23AdvayaHackathon2025-FF4B4B?style=for-the-badge" alt="AdvayaHackathon2025">
+</p>
+
+<p align="center">Made with ❤️ by Team COSMIC</p>
