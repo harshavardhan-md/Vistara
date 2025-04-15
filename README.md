@@ -176,15 +176,15 @@ Meet the visionaries behind Vistara:
   <tr>
     <td align="center">
       <img src="[INSERT_TEAM_PHOTO_1]" width="100px"><br>
-      <b>Kishore S R</b><br>
+      <b>Harshavardhan M</b><br>
       Team Lead & AI Architect<br>
-      <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
     </td>
     <td align="center">
       <img src="[INSERT_TEAM_PHOTO_2]" width="100px"><br>
-      <b>Harshavardhan M</b><br>
+      <b>Kishore S R</b><br>
       Frontend Wizard<br>
-      <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
     </td>
     <td align="center">
       <img src="[INSERT_TEAM_PHOTO_3]" width="100px"><br>
@@ -195,7 +195,7 @@ Meet the visionaries behind Vistara:
     <td align="center">
       <img src="[INSERT_TEAM_PHOTO_4]" width="100px"><br>
       <b>Jeevan N</b><br>
-      Backend & APIs<br>
+      Testing<br>
       <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
     </td>
   </tr>
