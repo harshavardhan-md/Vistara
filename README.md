@@ -1,7 +1,7 @@
-# VISTARA | Discover India's Soul ✨
+![image](https://github.com/user-attachments/assets/93248230-a619-432f-9488-f322b443d97c)# VISTARA | Discover India's Soul ✨
 ### Where Heritage Meets Innovation
 
-![Vistara - Experience India](https://github.com/Kishore-SR/Vistara/blob/main/public/readme-header.png)
+![Vistara - Experience India](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/readme-header.png)
 
 <p align="center">
   <a href="https://vistara-cosmic.vercel.app/" target="_blank">
@@ -25,8 +25,6 @@ By weaving together **AI-powered storytelling**, **geospatial discovery**, and *
 
 <p align="center">
   <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Home.png" alt="Vistara Hero Screenshot" width="100%">
-  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/6.png" alt="Vistara Hero Screenshot" width="100%">
-  <img src="[INSERT_HERO_SCREENSHOT_HERE]" alt="Vistara Hero Screenshot" width="100%">
 </p>
 
 ## ✨ Experience Vistara
@@ -56,7 +54,7 @@ We address critical challenges in modern tourism:
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE1_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/6.png" width="100%"><br>
       <h3>🛕 Cultural Compass</h3>
       <p>AI-powered recommendations for hidden gems, local cuisines, and heritage sites in your preferred language</p>
     </td>
@@ -66,24 +64,24 @@ We address critical challenges in modern tourism:
       <p>Transform your travel photos into enchanting folk tales with AI-generated illustrations</p>
     </td>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE3_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/8.png" width="100%"><br>
       <h3>🧵 Artisan Marketplace</h3>
       <p>Direct connection to verified local artisans with secure payment and authentic craft verification</p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE4_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/9.png" width="100%"><br>
       <h3>👥 Traveler Network</h3>
       <p>Connect with fellow explorers based on location, interests, and travel timeline</p>
     </td>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE5_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/10.png" width="100%"><br>
       <h3>🏅 Heritage Rewards</h3>
       <p>Earn unique badges and rewards for sustainable travel practices and cultural engagement</p>
     </td>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE6_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/7.png" width="100%"><br>
       <h3>📍 Geo-Cultural Alerts</h3>
       <p>Receive intelligent notifications about nearby cultural events, performances, and experiences</p>
     </td>
@@ -94,7 +92,7 @@ We address critical challenges in modern tourism:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1LwYCrY9XuiIHgHD9qHpiGl3LZ5shVJss/view?usp=sharing">
-    <img src="[INSERT_VIDEO_THUMBNAIL]" width="80%" alt="Watch Vistara Demo Video">
+    <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Home.png" width="80%" alt="Watch Vistara Demo Video">
   </a>
 </p>
 
@@ -106,7 +104,7 @@ Our innovation extends beyond beautiful interfaces:
 We've developed a unique AI pipeline that transforms ordinary travel photos into richly illustrated folk tales. Using Gemini 2.0 and Kandinsky models, we create narratives that feel authentically rooted in local storytelling traditions.
 
 <p align="center">
-  <img src="[INSERT_STORYWEAVER_SCREENSHOT]" width="80%" alt="StoryWeaver in Action">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/11.png" width="80%" alt="StoryWeaver in Action">
 </p>
 
 ### 🧵 Verified Artisan Network
@@ -116,7 +114,14 @@ Unlike conventional marketplaces, our platform integrates verification protocols
 Our proprietary mapping system visualizes cultural connections between sites, crafts, and traditions, helping travelers understand the rich tapestry they're exploring.
 
 <p align="center">
-  <img src="[INSERT_CULTURAL_WEB_SCREENSHOT]" width="80%" alt="Cultural Web Visualization">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/13.png" width="80%" alt="Cultural Web Visualization">
+</p>
+
+### 📃 AI Travel Itinerary Generator
+The AI Travel Itinerary Generator creates personalized cultural travel plans based on your preferences, leveraging Google Gemini to provide authentic local insights.
+
+<p align="center">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/12.png" width="80%" alt="AI Travel Itinerary Generator">
 </p>
 
 ## 🛠️ Technology Stack
@@ -138,7 +143,7 @@ Our proprietary mapping system visualizes cultural connections between sites, cr
 ### Architecture Overview
 
 <p align="center">
-  <img src="[INSERT_ARCHITECTURE_DIAGRAM]" width="90%" alt="Vistara Architecture">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Architecture_Diagram.png" width="90%" alt="Vistara Architecture">
 </p>
 
 Our system integrates several key components:
@@ -148,12 +153,6 @@ Our system integrates several key components:
 3. **Geospatial Services**: Custom implementation using Google Maps API for location intelligence
 4. **Artisan Verification System**: Blockchain-inspired proof-of-origin for craft authenticity
 5. **Cultural Knowledge Graph**: Specialized database mapping relationships between traditions, locations, and practices
-
-## 🌱 Roadmap & Vision
-
-<p align="center">
-  <img src="[INSERT_ROADMAP_GRAPHIC]" width="90%" alt="Vistara Roadmap">
-</p>
 
 ### Q3 2025
 - 🗣️ Expansion to 12 regional Indian languages
@@ -177,27 +176,27 @@ Meet the visionaries behind Vistara:
 <table>
   <tr>
     <td align="center">
-      <img src="[INSERT_TEAM_PHOTO_1]" width="100px"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQHdyu_pxSv_wA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724525724964?e=1750291200&v=beta&t=YOYj6NBmQJKhQJ38PNQ3-F8uO2Klop1xY_SIsTVSi94" width="100px"><br>
       <b>Harshavardhan M</b><br>
-      Team Lead & AI Architect<br>
+      Back-end Developer, AI Integration<br>
       <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="[INSERT_TEAM_PHOTO_2]" width="100px"><br>
+      <img src="https://net-worthy.web.app/assets/team/Kishore-SR.png" width="100px"><br>
       <b>Kishore S R</b><br>
-      Frontend Wizard<br>
+      UI/UX Designer, Front-end Developer<br>
       <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="[INSERT_TEAM_PHOTO_3]" width="100px"><br>
+      <img src="https://net-worthy.web.app/assets/team/Hitesh-P.jpg" width="100px"><br>
       <b>Hitesh P</b><br>
-      Data & Craft Systems<br>
+      Back-end Developer, AI Integration<br>
       <a href="https://www.linkedin.com/in/hitesh-p-aa55662a3">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="[INSERT_TEAM_PHOTO_4]" width="100px"><br>
+      <img src="https://net-worthy.web.app/assets/team/Jeevan-N.jpg" width="100px"><br>
       <b>Jeevan N</b><br>
-      Testing<br>
+      Quality Assurance Tester, UI Designer<br>
       <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
     </td>
   </tr>
