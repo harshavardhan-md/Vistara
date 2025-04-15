@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93248230-a619-432f-9488-f322b443d97c)# VISTARA | Discover India's Soul ✨
+# VISTARA | Discover India's Soul ✨
 ### Where Heritage Meets Innovation
 
 ![Vistara - Experience India](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/readme-header.png)
