@@ -59,7 +59,7 @@ We address critical challenges in modern tourism:
       <p>AI-powered recommendations for hidden gems, local cuisines, and heritage sites in your preferred language</p>
     </td>
     <td width="33%" align="center">
-      <img src="[INSERT_FEATURE2_SCREENSHOT]" width="100%"><br>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/11.png" width="100%"><br>
       <h3>📚 StoryWeaver</h3>
       <p>Transform your travel photos into enchanting folk tales with AI-generated illustrations</p>
     </td>
@@ -81,9 +81,9 @@ We address critical challenges in modern tourism:
       <p>Earn unique badges and rewards for sustainable travel practices and cultural engagement</p>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/7.png" width="100%"><br>
-      <h3>📍 Geo-Cultural Alerts</h3>
-      <p>Receive intelligent notifications about nearby cultural events, performances, and experiences</p>
+      <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/13.png" width="100%"><br>
+      <h3>📈 Cultural Knowledge Graph</h3>
+      <p>India's first interconnected map of cultural knowledge showing relationships between traditions across regions.</p>
     </td>
   </tr>
 </table>
