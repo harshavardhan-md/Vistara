@@ -1,0 +1,155 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 33% 97%;
+    --foreground: 220 5% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 5% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 5% 20%;
+
+    --primary: 356 66% 33%;
+    --primary-foreground: 36 33% 97%;
+
+    --secondary: 24 45% 51%;
+    --secondary-foreground: 36 33% 97%;
+
+    --muted: 210 15% 95%;
+    --muted-foreground: 220 5% 40%;
+
+    --accent: 45 80% 75%;
+    --accent-foreground: 220 5% 20%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 13% 91%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 356 66% 33%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 356 66% 33%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 356 66% 33%;
+  }
+
+  .dark {
+    --background: 220 5% 10%;
+    --foreground: 36 33% 97%;
+
+    --card: 220 5% 13%;
+    --card-foreground: 36 33% 97%;
+
+    --popover: 220 5% 13%;
+    --popover-foreground: 36 33% 97%;
+
+    --primary: 356 66% 50%;  /* Brightened for better contrast */
+    --primary-foreground: 36 33% 97%;
+
+    --secondary: 24 45% 58%;  /* Brightened for better contrast */
+    --secondary-foreground: 36 33% 97%;
+
+    --muted: 220 5% 25%;
+    --muted-foreground: 36 33% 85%;
+
+    --accent: 45 70% 65%;
+    --accent-foreground: 220 5% 10%;
+
+    --destructive: 0 62.8% 40.6%;  /* Increased saturation for visibility */
+    --destructive-foreground: 36 33% 97%;
+
+    --border: 220 5% 25%;
+    --input: 220 5% 25%;
+    --ring: 356 66% 50%;  /* Matches primary */
+
+    --sidebar-background: 220 5% 13%;
+    --sidebar-foreground: 36 33% 97%;
+    --sidebar-primary: 356 66% 50%;  /* Matches primary */
+    --sidebar-primary-foreground: 36 33% 97%;
+    --sidebar-accent: 220 5% 20%;
+    --sidebar-accent-foreground: 36 33% 97%;
+    --sidebar-border: 220 5% 25%;
+    --sidebar-ring: 356 66% 50%;  /* Matches primary */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  /* Improving dark mode specific elements */
+  .dark .feature-card {
+    @apply bg-card border-border/30 hover:border-primary/30;
+  }
+  
+  .dark .dropdown-menu {
+    @apply bg-popover border-border/30;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply px-4 md:px-8 lg:px-12 max-w-7xl mx-auto;
+  }
+  
+  .heading-1 {
+    @apply text-4xl md:text-5xl lg:text-6xl font-bold leading-tight;
+  }
+  
+  .heading-2 {
+    @apply text-3xl md:text-4xl font-bold leading-tight;
+  }
+  
+  .heading-3 {
+    @apply text-2xl md:text-3xl font-semibold leading-tight;
+  }
+  
+  .subheading {
+    @apply text-lg md:text-xl text-muted-foreground leading-relaxed;
+  }
+  
+  .feature-card {
+    @apply bg-card rounded-xl p-6 shadow-sm border border-border transition-all duration-300 hover:shadow-md hover:border-accent;
+  }
+  
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 rounded-md px-4 py-2 font-semibold transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/90 rounded-md px-4 py-2 font-semibold transition-colors;
+  }
+  
+  .btn-outline {
+    @apply border border-border hover:bg-accent hover:text-accent-foreground rounded-md px-4 py-2 font-semibold transition-colors;
+  }
+  
+  .pattern-bg {
+    background-color: #f5f4f0;
+    background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d8d4d5' fill-opacity='0.4'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+  
+  /* Dark mode pattern background */
+  .dark .pattern-bg {
+    background-color: #1a1a1a;
+    background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23333333' fill-opacity='0.4'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+}
