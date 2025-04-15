@@ -158,9 +158,10 @@ Our system integrates several key components:
 4. **Artisan Verification System**: Blockchain-inspired proof-of-origin for craft authenticity
 5. **Cultural Knowledge Graph**: Specialized database mapping relationships between traditions, locations, and practices
 
-🌱 Roadmap & Vision
+## 🌱 Roadmap & Vision
+
 <p align="center">
-  //<img src="[INSERT_ROADMAP_GRAPHIC]" width="90%" alt="Vistara Roadmap">
+  <img src="[INSERT_ROADMAP_GRAPHIC]" width="90%" alt="Vistara Roadmap">
 </p>
 
 ### Q3 2025
