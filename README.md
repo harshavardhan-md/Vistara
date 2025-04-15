@@ -1,7 +1,7 @@
 # VISTARA | Discover India's Soul ✨
 ### Where Heritage Meets Innovation
 
-![Vistara - Experience India]([https://vistara-cosmic.vercel.app/assets/logo-95df4a37.png](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Home.png?raw=true))
+![Vistara - Experience India](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Home.png)
 
 <p align="center">
   <a href="https://vistara-cosmic.vercel.app/" target="_blank">
