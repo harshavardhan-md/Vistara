@@ -104,7 +104,7 @@ Our innovation extends beyond beautiful interfaces:
 We've developed a unique AI pipeline that transforms ordinary travel photos into richly illustrated folk tales. Using Gemini 2.0 and Kandinsky models, we create narratives that feel authentically rooted in local storytelling traditions.
 
 <p align="center">
-  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/11.png" width="80%" alt="StoryWeaver in Action">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/11.png" width="80%" alt="StoryWeaver in Action" style="border-radius: 50%">
 </p>
 
 ### 🧵 Verified Artisan Network
