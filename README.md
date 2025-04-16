@@ -161,7 +161,7 @@ Our system integrates several key components:
 ## 🌱 Roadmap & Vision
 
 <p align="center">
-  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/roadmap.svg" width="90%" alt="Vistara Roadmap">
+  <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/roadmap.png" width="90%" alt="Vistara Roadmap">
 </p>
 
 
